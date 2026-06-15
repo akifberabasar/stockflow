@@ -1,0 +1,20 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+
+# Ortam değişkenleri (API adresleri, sırlar)
+.env.local
+.env*.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
